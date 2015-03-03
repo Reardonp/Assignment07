@@ -1,4 +1,4 @@
-package multiplesOfThreeAndFive;
+package assignment07;
 
 public class MulitplesOfThreeAndFive {
 	
