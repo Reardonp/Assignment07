@@ -5,7 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		
 		MulitplesOfThreeAndFive a = new MulitplesOfThreeAndFive ();
-		System.out.println("The results = " + a);
+
+		System.out.println("The results = " + a.MultipleOfThreeAndFive(4000));
 	}
 
 }

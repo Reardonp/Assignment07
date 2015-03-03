@@ -21,7 +21,7 @@ public class MulitplesOfThreeAndFive {
 				
 			}//end while1
 			
-			System.out.println(total);//output sum
+			//System.out.println(total);//output sum
 			return total;
 			
 
